@@ -1,3 +1,6 @@
 [submodule "Go-CYOA"]
 	path = Go-CYOA
 	url = https://github.com/mvenkatesh431/Go-CYOA.git
+[submodule "Go-LinkParser"]
+	path = Go-LinkParser
+	url = https://github.com/mvenkatesh431/Go-LinkParser.git
