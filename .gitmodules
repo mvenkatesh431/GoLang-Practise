@@ -4,3 +4,6 @@
 [submodule "LinkParser"]
 	path = LinkParser
 	url = https://github.com/mvenkatesh431/LinkParser
+[submodule "sitemap"]
+	path = sitemap
+	url = https://github.com/mvenkatesh431/sitemap.git
